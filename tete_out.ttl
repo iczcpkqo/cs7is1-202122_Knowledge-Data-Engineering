@@ -1,0 +1,1898 @@
+<http://testet.org/mytest/Azerbaijan>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/AZE> ;
+        <http://testet.org/gdp>   "81950" .
+
+<http://testet.org/myfg/LTU>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "215" .
+
+<http://testet.org/myfg/KHM>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "200" .
+
+<http://testet.org/mytest/Croatia>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/HRV> ;
+        <http://testet.org/gdp>   "19550" .
+
+<http://testet.org/mytest/Ghana>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/GHA> ;
+        <http://testet.org/gdp>   "15500" .
+
+<http://testet.org/mytest/Barbados>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/BRB> ;
+        <http://testet.org/gdp>   "610" .
+
+<http://testet.org/myfg/EAS>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "149" .
+
+<http://testet.org/myfg/IDA>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "183" .
+
+<http://testet.org/myfg/GMB>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "169" .
+
+<http://testet.org/mytest/Bahamas%2C%20The>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/BHS> ;
+        <http://testet.org/gdp>   "850" .
+
+<http://testet.org/myfg/BEN>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "112" .
+
+<http://testet.org/mytest/IDA%20only>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/IDX> ;
+        <http://testet.org/gdp>   "3315550" .
+
+<http://testet.org/myfg/CUB>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "139" .
+
+<http://testet.org/mytest/Uruguay>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/URY> ;
+        <http://testet.org/gdp>   "25450" .
+
+<http://testet.org/mytest/India>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/IND> ;
+        <http://testet.org/gdp>   "2728700" .
+
+<http://testet.org/mytest/Cyprus>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/CYP> ;
+        <http://testet.org/gdp>   "12750" .
+
+<http://testet.org/mytest/Namibia>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/NAM> ;
+        <http://testet.org/gdp>   "15200" .
+
+<http://testet.org/myfg/MNG>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "230" .
+
+<http://testet.org/myfg/ECA>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "150" .
+
+<http://testet.org/mytest/United%20States>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/USA> ;
+        <http://testet.org/gdp>   "1492200" .
+
+<http://testet.org/myfg/GAB>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "164" .
+
+<http://testet.org/mytest/Nepal>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/NPL> ;
+        <http://testet.org/gdp>   "157750" .
+
+<http://testet.org/myfg/SAS>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "263" .
+
+<http://testet.org/myfg/PRE>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "254" .
+
+<http://testet.org/myfg/SYC>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "280" .
+
+<http://testet.org/myfg/YEM>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "307" .
+
+<http://testet.org/mytest/Pre-demographic%20dividend>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/PRE> ;
+        <http://testet.org/gdp>   "2662350" .
+
+<http://testet.org/mytest/Jordan>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/JOR> ;
+        <http://testet.org/gdp>   "115500" .
+
+<http://testet.org/mytest/Early-demographic%20dividend>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/EAR> ;
+        <http://testet.org/gdp>   "10555650" .
+
+<http://testet.org/mytest/Thailand>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/THA> ;
+        <http://testet.org/gdp>   "453550" .
+
+<http://testet.org/mytest/Low%20%26%20middle%20income>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/LMY> ;
+        <http://testet.org/gdp>   "22368104" .
+
+<http://testet.org/myfg/ISR>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "192" .
+
+<http://testet.org/myfg/MRT>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "232" .
+
+<http://testet.org/myfg/LMC>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "211" .
+
+<http://testet.org/mytest/Gambia%2C%20The>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/GMB> ;
+        <http://testet.org/gdp>   "800" .
+
+<http://testet.org/myfg/SVN>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "278" .
+
+<http://testet.org/myfg/MLI>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "225" .
+
+<http://testet.org/myfg/GEO>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "166" .
+
+<http://testet.org/myfg/NAM>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "237" .
+
+<http://testet.org/myfg/BGR>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "115" .
+
+<http://testet.org/myfg/LTE>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "214" .
+
+<http://testet.org/mytest/Netherlands>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/NLD> ;
+        <http://testet.org/gdp>   "43300" .
+
+<http://testet.org/mytest/New%20Zealand>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/NZL> ;
+        <http://testet.org/gdp>   "8550" .
+
+<http://testet.org/myfg/EGY>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "153" .
+
+<http://testet.org/myfg/QAT>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "259" .
+
+<http://testet.org/myfg/MLT>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "226" .
+
+<http://testet.org/myfg/LMY>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "212" .
+
+<http://testet.org/myfg/HUN>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "180" .
+
+<http://testet.org/myfg/SWE>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "279" .
+
+<http://testet.org/myfg/LDC>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "208" .
+
+<http://testet.org/mytest/Lebanon>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/LBN> ;
+        <http://testet.org/gdp>   "80000" .
+
+<http://testet.org/myfg/LAC>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "203" .
+
+<http://testet.org/mytest/Lesotho>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/LSO> ;
+        <http://testet.org/gdp>   "2000" .
+
+<http://testet.org/mytest/Fiji>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/FJI> ;
+        <http://testet.org/gdp>   "3500" .
+
+<http://testet.org/mytest/Iceland>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/ISL> ;
+        <http://testet.org/gdp>   "180" .
+
+<http://testet.org/mytest/Portugal>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/PRT> ;
+        <http://testet.org/gdp>   "90300" .
+
+<http://testet.org/mytest/Togo>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/TGO> ;
+        <http://testet.org/gdp>   "9300" .
+
+<http://testet.org/myfg/HIC>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "175" .
+
+<http://testet.org/mytest/El%20Salvador>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/SLV> ;
+        <http://testet.org/gdp>   "32300" .
+
+<http://testet.org/myfg/ZWE>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "310" .
+
+<http://testet.org/mytest/Uganda>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/UGA> ;
+        <http://testet.org/gdp>   "46800" .
+
+<http://testet.org/mytest/Least%20developed%20countries%3A%20UN%20classification>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/LDC> ;
+        <http://testet.org/gdp>   "3170580" .
+
+<http://testet.org/myfg/SDN>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "265" .
+
+<http://testet.org/mytest/Guinea-Bissau>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/GNB> ;
+        <http://testet.org/gdp>   "6450" .
+
+<http://testet.org/mytest/Middle%20East%20%26%20North%20Africa%20%28excluding%20high%20income%29>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/MNA> ;
+        <http://testet.org/gdp>   "3399050" .
+
+<http://testet.org/myfg/ROU>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "260" .
+
+<http://testet.org/myfg/EST>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "157" .
+
+<http://testet.org/mytest/Spain>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/ESP> ;
+        <http://testet.org/gdp>   "215600" .
+
+<http://testet.org/myfg/TJK>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "287" .
+
+<http://testet.org/mytest/Tanzania>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/TZA> ;
+        <http://testet.org/gdp>   "28400" .
+
+<http://testet.org/mytest/Luxembourg>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/LUX> ;
+        <http://testet.org/gdp>   "1510" .
+
+<http://testet.org/myfg/SUR>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "276" .
+
+<http://testet.org/mytest/Middle%20income>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/MIC> ;
+        <http://testet.org/gdp>   "19132354" .
+
+<http://testet.org/myfg/PRK>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "255" .
+
+<http://testet.org/mytest/Vietnam>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/VNM> ;
+        <http://testet.org/gdp>   "522000" .
+
+<http://testet.org/mytest/OECD%20members>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/OED> ;
+        <http://testet.org/gdp>   "5785700" .
+
+<http://testet.org/mytest/Heavily%20indebted%20poor%20countries%20%28HIPC%29>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/HPC> ;
+        <http://testet.org/gdp>   "1644050" .
+
+<http://testet.org/myfg/IBT>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "182" .
+
+<http://testet.org/mytest/IBRD%20only>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/IBD> ;
+        <http://testet.org/gdp>   "16557144" .
+
+<http://testet.org/myfg/AUT>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "108" .
+
+<http://testet.org/myfg/TKM>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "288" .
+
+<http://testet.org/myfg/MEX>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "222" .
+
+<http://testet.org/myfg/MOZ>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "231" .
+
+<http://testet.org/mytest/Haiti>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/HTI> ;
+        <http://testet.org/gdp>   "50" .
+
+<http://testet.org/mytest/Turkmenistan>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/TKM> ;
+        <http://testet.org/gdp>   "22000" .
+
+<http://testet.org/myfg/SST>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "275" .
+
+<http://testet.org/myfg/IDB>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "184" .
+
+<http://testet.org/mytest/Bolivia>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/BOL> ;
+        <http://testet.org/gdp>   "83200" .
+
+<http://testet.org/myfg/IND>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "187" .
+
+<http://testet.org/mytest/Lao%20PDR>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/LAO> ;
+        <http://testet.org/gdp>   "129100" .
+
+<http://testet.org/myfg/KEN>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "198" .
+
+<http://testet.org/mytest/Mauritius>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/MUS> ;
+        <http://testet.org/gdp>   "2500" .
+
+<http://testet.org/myfg/IDX>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "186" .
+
+<http://testet.org/myfg/TCD>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "282" .
+
+<http://testet.org/myfg/LUX>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "216" .
+
+<http://testet.org/mytest/Congo%2C%20Dem.%20Rep.>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/COD> ;
+        <http://testet.org/gdp>   "134250" .
+
+<http://testet.org/mytest/Iraq>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/IRQ> ;
+        <http://testet.org/gdp>   "802400" .
+
+<http://testet.org/myfg/IRQ>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "190" .
+
+<http://testet.org/myfg/CHL>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "130" .
+
+<http://testet.org/mytest/Malta>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/MLT> ;
+        <http://testet.org/gdp>   "2130" .
+
+<http://testet.org/mytest/Seychelles>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/SYC> ;
+        <http://testet.org/gdp>   "840" .
+
+<http://testet.org/mytest/Mexico>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/MEX> ;
+        <http://testet.org/gdp>   "329750" .
+
+<http://testet.org/myfg/IBD>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "181" .
+
+<http://testet.org/myfg/SRB>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "271" .
+
+<http://testet.org/myfg/CYP>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "140" .
+
+<http://testet.org/myfg/KWT>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "202" .
+
+<http://testet.org/mytest/Papua%20New%20Guinea>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/PNG> ;
+        <http://testet.org/gdp>   "1900" .
+
+<http://testet.org/myfg/UMC>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "300" .
+
+<http://testet.org/mytest/Slovenia>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/SVN> ;
+        <http://testet.org/gdp>   "13550" .
+
+<http://testet.org/myfg/LSO>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "213" .
+
+<http://testet.org/mytest/Mozambique>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/MOZ> ;
+        <http://testet.org/gdp>   "11200" .
+
+<http://testet.org/myfg/SOM>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "270" .
+
+<http://testet.org/mytest/Venezuela%2C%20RB>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/VEN> ;
+        <http://testet.org/gdp>   "115000" .
+
+<http://testet.org/mytest/Dominican%20Republic>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/DOM> ;
+        <http://testet.org/gdp>   "61000" .
+
+<http://testet.org/myfg/NAC>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "236" .
+
+<http://testet.org/mytest/Zimbabwe>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/ZWE> ;
+        <http://testet.org/gdp>   "50800" .
+
+<http://testet.org/myfg/SSD>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "273" .
+
+<http://testet.org/mytest/Iran%2C%20Islamic%20Rep.>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/IRN> ;
+        <http://testet.org/gdp>   "563000" .
+
+<http://testet.org/mytest/Brunei%20Darussalam>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/BRN> ;
+        <http://testet.org/gdp>   "9250" .
+
+<http://testet.org/mytest/Europe%20%26%20Central%20Asia%20%28excluding%20high%20income%29>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/ECA> ;
+        <http://testet.org/gdp>   "2990180" .
+
+<http://testet.org/myfg/BRA>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "122" .
+
+<http://testet.org/mytest/Bahrain>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/BHR> ;
+        <http://testet.org/gdp>   "19460" .
+
+<http://testet.org/mytest/Turkey>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/TUR> ;
+        <http://testet.org/gdp>   "612800" .
+
+<http://testet.org/myfg/TSA>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "292" .
+
+<http://testet.org/mytest/Madagascar>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/MDG> ;
+        <http://testet.org/gdp>   "21600" .
+
+<http://testet.org/myfg/NOR>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "242" .
+
+<http://testet.org/mytest/Sub-Saharan%20Africa%20%28IDA%20%26%20IBRD%20countries%29>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/TSS> ;
+        <http://testet.org/gdp>   "1860810" .
+
+<http://testet.org/mytest/Benin>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/BEN> ;
+        <http://testet.org/gdp>   "9450" .
+
+<http://testet.org/myfg/BOL>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "121" .
+
+<http://testet.org/myfg/LAO>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "204" .
+
+<http://testet.org/mytest/Brazil>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/BRA> ;
+        <http://testet.org/gdp>   "713480" .
+
+<http://testet.org/mytest/Ecuador>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/ECU> ;
+        <http://testet.org/gdp>   "58500" .
+
+<http://testet.org/myfg/MDA>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "219" .
+
+<http://testet.org/myfg/VNM>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "305" .
+
+<http://testet.org/myfg/IRL>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "188" .
+
+<http://testet.org/mytest/Arab%20World>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/ARB> ;
+        <http://testet.org/gdp>   "3542060" .
+
+<http://testet.org/mytest/Guatemala>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/GTM> ;
+        <http://testet.org/gdp>   "42300" .
+
+<http://testet.org/myfg/BFA>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "113" .
+
+<http://testet.org/myfg/CRI>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "137" .
+
+<http://testet.org/mytest/Georgia>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/GEO> ;
+        <http://testet.org/gdp>   "32350" .
+
+<http://testet.org/mytest/Europe%20%26%20Central%20Asia%20%28IDA%20%26%20IBRD%20countries%29>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/TEC> ;
+        <http://testet.org/gdp>   "3182430" .
+
+<http://testet.org/mytest/Greece>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/GRC> ;
+        <http://testet.org/gdp>   "147350" .
+
+<http://testet.org/mytest/Liberia>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/LBR> ;
+        <http://testet.org/gdp>   "2050" .
+
+<http://testet.org/mytest/Late-demographic%20dividend>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/LTE> ;
+        <http://testet.org/gdp>   "9609744" .
+
+<http://testet.org/mytest/Uzbekistan>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/UZB> ;
+        <http://testet.org/gdp>   "68000" .
+
+<http://testet.org/mytest/Lower%20middle%20income>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/LMC> ;
+        <http://testet.org/gdp>   "8505130" .
+
+<http://testet.org/mytest/Jamaica>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/JAM> ;
+        <http://testet.org/gdp>   "2830" .
+
+<http://testet.org/mytest/Bosnia%20and%20Herzegovina>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/BIH> ;
+        <http://testet.org/gdp>   "10500" .
+
+<http://testet.org/myfg/ECS>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "151" .
+
+<http://testet.org/myfg/EMU>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "154" .
+
+<http://testet.org/myfg/POL>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "253" .
+
+<http://testet.org/mytest/East%20Asia%20%26%20Pacific%20%28IDA%20%26%20IBRD%20countries%29>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/TEA> ;
+        <http://testet.org/gdp>   "5801730" .
+
+<http://testet.org/mytest/Somalia>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/SOM> ;
+        <http://testet.org/gdp>   "20000" .
+
+<http://testet.org/mytest/Belgium>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/BEL> ;
+        <http://testet.org/gdp>   "30700" .
+
+<http://testet.org/myfg/TEC>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "284" .
+
+<http://testet.org/myfg/CPV>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "136" .
+
+<http://testet.org/mytest/Latvia>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/LVA> ;
+        <http://testet.org/gdp>   "5310" .
+
+<http://testet.org/mytest/Poland>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/POL> ;
+        <http://testet.org/gdp>   "172700" .
+
+<http://testet.org/mytest/Afghanistan>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/AFG> ;
+        <http://testet.org/gdp>   "338150" .
+
+<http://testet.org/mytest/United%20Arab%20Emirates>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/ARE> ;
+        <http://testet.org/gdp>   "51000" .
+
+<http://testet.org/mytest/South%20Sudan>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/SSD> ;
+        <http://testet.org/gdp>   "210000" .
+
+<http://testet.org/mytest/South%20Asia%20%28IDA%20%26%20IBRD%29>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/TSA> ;
+        <http://testet.org/gdp>   "4616450" .
+
+<http://testet.org/mytest/IDA%20%26%20IBRD%20total>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/IBT> ;
+        <http://testet.org/gdp>   "21198474" .
+
+<http://testet.org/myfg/LKA>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "210" .
+
+<http://testet.org/myfg/MWI>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "234" .
+
+<http://testet.org/myfg/IDN>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "185" .
+
+<http://testet.org/myfg/MMR>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "227" .
+
+<http://testet.org/mytest/Bangladesh>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/BGD> ;
+        <http://testet.org/gdp>   "220950" .
+
+<http://testet.org/myfg/BLR>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "119" .
+
+<http://testet.org/myfg/MDG>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "220" .
+
+<http://testet.org/mytest/Algeria>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/DZA> ;
+        <http://testet.org/gdp>   "317200" .
+
+<http://testet.org/myfg/ESP>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "156" .
+
+<http://testet.org/myfg/CEB>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "128" .
+
+<http://testet.org/myfg/COD>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "133" .
+
+<http://testet.org/mytest/Senegal>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/SEN> ;
+        <http://testet.org/gdp>   "18600" .
+
+<http://testet.org/mytest/Middle%20East%20%26%20North%20Africa>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/MEA> ;
+        <http://testet.org/gdp>   "3986540" .
+
+<http://testet.org/mytest/Yemen%2C%20Rep.>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/YEM> ;
+        <http://testet.org/gdp>   "137900" .
+
+<http://testet.org/myfg/PAN>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "249" .
+
+<http://testet.org/myfg/LIC>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "209" .
+
+<http://testet.org/myfg/SAU>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "264" .
+
+<http://testet.org/myfg/GNQ>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "171" .
+
+<http://testet.org/myfg/MAR>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "218" .
+
+<http://testet.org/mytest/China>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/CHN> ;
+        <http://testet.org/gdp>   "2993000" .
+
+<http://testet.org/mytest/Ukraine>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/UKR> ;
+        <http://testet.org/gdp>   "214850" .
+
+<http://testet.org/mytest/Paraguay>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/PRY> ;
+        <http://testet.org/gdp>   "25450" .
+
+<http://testet.org/mytest/World>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/WLD> ;
+        <http://testet.org/gdp>   "28154374" .
+
+<http://testet.org/myfg/ARE>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "104" .
+
+<http://testet.org/mytest/Philippines>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/PHL> ;
+        <http://testet.org/gdp>   "165500" .
+
+<http://testet.org/mytest/Sierra%20Leone>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/SLE> ;
+        <http://testet.org/gdp>   "10500" .
+
+<http://testet.org/myfg/LCN>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "207" .
+
+<http://testet.org/myfg/BDI>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "110" .
+
+<http://testet.org/mytest/Caribbean%20small%20states>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/CSS> ;
+        <http://testet.org/gdp>   "12510" .
+
+<http://testet.org/myfg/DEU>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "142" .
+
+<http://testet.org/myfg/PST>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "258" .
+
+<http://testet.org/myfg/EAP>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "147" .
+
+<http://testet.org/myfg/BRB>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "123" .
+
+<http://testet.org/myfg/ERI>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "155" .
+
+<http://testet.org/mytest/Sub-Saharan%20Africa%20%28excluding%20high%20income%29>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/SSA> ;
+        <http://testet.org/gdp>   "1859970" .
+
+<http://testet.org/mytest/Syrian%20Arab%20Republic>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/SYR> ;
+        <http://testet.org/gdp>   "178000" .
+
+<http://testet.org/myfg/CAF>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "126" .
+
+<http://testet.org/mytest/Congo%2C%20Rep.>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/COG> ;
+        <http://testet.org/gdp>   "12000" .
+
+<http://testet.org/mytest/Canada>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/CAN> ;
+        <http://testet.org/gdp>   "66000" .
+
+<http://testet.org/myfg/SGP>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "267" .
+
+<http://testet.org/myfg/NZL>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "244" .
+
+<http://testet.org/mytest/Peru>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/PER> ;
+        <http://testet.org/gdp>   "192000" .
+
+<http://testet.org/mytest/IDA%20total>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/IDA> ;
+        <http://testet.org/gdp>   "4641330" .
+
+<http://testet.org/mytest/Israel>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/ISR> ;
+        <http://testet.org/gdp>   "184500" .
+
+<http://testet.org/mytest/Central%20Europe%20and%20the%20Baltics>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/CEB> ;
+        <http://testet.org/gdp>   "519910" .
+
+<http://testet.org/mytest/Qatar>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/QAT> ;
+        <http://testet.org/gdp>   "11800" .
+
+<http://testet.org/mytest/Denmark>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/DNK> ;
+        <http://testet.org/gdp>   "17200" .
+
+<http://testet.org/mytest/Kenya>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/KEN> ;
+        <http://testet.org/gdp>   "29100" .
+
+<http://testet.org/myfg/MKD>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "224" .
+
+<http://testet.org/myfg/TTO>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "294" .
+
+<http://testet.org/myfg/LBR>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "206" .
+
+<http://testet.org/myfg/GRC>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "172" .
+
+<http://testet.org/mytest/United%20Kingdom>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/GBR> ;
+        <http://testet.org/gdp>   "169150" .
+
+<http://testet.org/myfg/GHA>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "167" .
+
+<http://testet.org/myfg/HTI>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "179" .
+
+<http://testet.org/mytest/Low%20income>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/LIC> ;
+        <http://testet.org/gdp>   "3235750" .
+
+<http://testet.org/mytest/Guyana>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/GUY> ;
+        <http://testet.org/gdp>   "1100" .
+
+<http://testet.org/mytest/Myanmar>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/MMR> ;
+        <http://testet.org/gdp>   "513250" .
+
+<http://testet.org/myfg/VEN>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "304" .
+
+<http://testet.org/mytest/Cameroon>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/CMR> ;
+        <http://testet.org/gdp>   "23200" .
+
+<http://testet.org/myfg/BGD>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "114" .
+
+<http://testet.org/myfg/GUY>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "174" .
+
+<http://testet.org/myfg/SVK>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "277" .
+
+<http://testet.org/mytest/Cuba>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/CUB> ;
+        <http://testet.org/gdp>   "75500" .
+
+<http://testet.org/myfg/MYS>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "235" .
+
+<http://testet.org/myfg/GIN>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "168" .
+
+<http://testet.org/mytest/Latin%20America%20%26%20Caribbean%20%28excluding%20high%20income%29>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/LAC> ;
+        <http://testet.org/gdp>   "2321724" .
+
+<http://testet.org/myfg/HRV>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "178" .
+
+<http://testet.org/mytest/Mali>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/MLI> ;
+        <http://testet.org/gdp>   "7800" .
+
+<http://testet.org/myfg/KOR>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "201" .
+
+<http://testet.org/myfg/NIC>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "240" .
+
+<http://testet.org/mytest/Malawi>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/MWI> ;
+        <http://testet.org/gdp>   "6800" .
+
+<http://testet.org/mytest/Upper%20middle%20income>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/UMC> ;
+        <http://testet.org/gdp>   "10627224" .
+
+<http://testet.org/myfg/TSS>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "293" .
+
+<http://testet.org/myfg/FRA>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "163" .
+
+<http://testet.org/myfg/DJI>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "143" .
+
+<http://testet.org/mytest/Burundi>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/BDI> ;
+        <http://testet.org/gdp>   "51000" .
+
+<http://testet.org/myfg/URY>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "301" .
+
+<http://testet.org/mytest/North%20America>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/NAC> ;
+        <http://testet.org/gdp>   "1558200" .
+
+<http://testet.org/myfg/BIH>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "118" .
+
+<http://testet.org/mytest/Nigeria>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/NGA> ;
+        <http://testet.org/gdp>   "162000" .
+
+<http://testet.org/myfg/CHN>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "131" .
+
+<http://testet.org/mytest/Italy>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/ITA> ;
+        <http://testet.org/gdp>   "359500" .
+
+<http://testet.org/mytest/Kazakhstan>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/KAZ> ;
+        <http://testet.org/gdp>   "70500" .
+
+<http://testet.org/myfg/BWA>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "125" .
+
+<http://testet.org/myfg/DNK>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "144" .
+
+<http://testet.org/myfg/ETH>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "158" .
+
+<http://testet.org/mytest/Ethiopia>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/ETH> ;
+        <http://testet.org/gdp>   "138000" .
+
+<http://testet.org/mytest/Serbia>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/SRB> ;
+        <http://testet.org/gdp>   "28150" .
+
+<http://testet.org/myfg/HND>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "176" .
+
+<http://testet.org/myfg/SSF>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "274" .
+
+<http://testet.org/myfg/ITA>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "193" .
+
+<http://testet.org/myfg/DOM>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "145" .
+
+<http://testet.org/mytest/Korea%2C%20Rep.>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/KOR> ;
+        <http://testet.org/gdp>   "659500" .
+
+<http://testet.org/mytest/Angola>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/AGO> ;
+        <http://testet.org/gdp>   "117000" .
+
+<http://testet.org/myfg/GBR>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "165" .
+
+<http://testet.org/myfg/CMR>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "132" .
+
+<http://testet.org/myfg/TLA>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "289" .
+
+<http://testet.org/mytest/Honduras>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/HND> ;
+        <http://testet.org/gdp>   "20000" .
+
+<http://testet.org/mytest/Sudan>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/SDN> ;
+        <http://testet.org/gdp>   "264300" .
+
+<http://testet.org/mytest/Belize>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/BLZ> ;
+        <http://testet.org/gdp>   "1050" .
+
+<http://testet.org/mytest/Tunisia>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/TUN> ;
+        <http://testet.org/gdp>   "47800" .
+
+<http://testet.org/myfg/EUU>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "159" .
+
+<http://testet.org/myfg/NER>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "238" .
+
+<http://testet.org/myfg/BRN>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "124" .
+
+<http://testet.org/mytest/Equatorial%20Guinea>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/GNQ> ;
+        <http://testet.org/gdp>   "1320" .
+
+<http://testet.org/mytest/IDA%20blend>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/IDB> ;
+        <http://testet.org/gdp>   "1325780" .
+
+<http://testet.org/myfg/UKR>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "299" .
+
+<http://testet.org/myfg/BEL>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "111" .
+
+<http://testet.org/mytest/Slovak%20Republic>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/SVK> ;
+        <http://testet.org/gdp>   "15850" .
+
+<http://testet.org/myfg/OED>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "245" .
+
+<http://testet.org/myfg/GTM>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "173" .
+
+<http://testet.org/myfg/MNE>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "229" .
+
+<http://testet.org/myfg/IRN>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "189" .
+
+<http://testet.org/myfg/TMN>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "291" .
+
+<http://testet.org/mytest/Guinea>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/GIN> ;
+        <http://testet.org/gdp>   "12300" .
+
+<http://testet.org/myfg/GNB>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "170" .
+
+<http://testet.org/myfg/LVA>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "217" .
+
+<http://testet.org/myfg/UZB>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "303" .
+
+<http://testet.org/mytest/Tajikistan>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/TJK> ;
+        <http://testet.org/gdp>   "16300" .
+
+<http://testet.org/mytest/Saudi%20Arabia>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/SAU> ;
+        <http://testet.org/gdp>   "249000" .
+
+<http://testet.org/mytest/Malaysia>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/MYS> ;
+        <http://testet.org/gdp>   "133600" .
+
+<http://testet.org/myfg/PHL>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "251" .
+
+<http://testet.org/myfg/ECU>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "152" .
+
+<http://testet.org/myfg/OSS>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "247" .
+
+<http://testet.org/myfg/ZAF>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "308" .
+
+<http://testet.org/myfg/PRY>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "257" .
+
+<http://testet.org/mytest/Kyrgyz%20Republic>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/KGZ> ;
+        <http://testet.org/gdp>   "20400" .
+
+<http://testet.org/mytest/Belarus>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/BLR> ;
+        <http://testet.org/gdp>   "158000" .
+
+<http://testet.org/mytest/Oman>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/OMN> ;
+        <http://testet.org/gdp>   "47000" .
+
+<http://testet.org/mytest/East%20Asia%20%26%20Pacific%20%28excluding%20high%20income%29>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/EAP> ;
+        <http://testet.org/gdp>   "7180730" .
+
+<http://testet.org/myfg/SSA>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "272" .
+
+<http://testet.org/myfg/KGZ>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "199" .
+
+<http://testet.org/myfg/TUR>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "296" .
+
+<http://testet.org/mytest/Colombia>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/COL> ;
+        <http://testet.org/gdp>   "440224" .
+
+<http://testet.org/mytest/Costa%20Rica>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/CRI> ;
+        <http://testet.org/gdp>   "9800" .
+
+<http://testet.org/myfg/FJI>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "162" .
+
+<http://testet.org/mytest/Sri%20Lanka>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/LKA> ;
+        <http://testet.org/gdp>   "223100" .
+
+<http://testet.org/mytest/Indonesia>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/IDN> ;
+        <http://testet.org/gdp>   "676500" .
+
+<http://testet.org/myfg/KAZ>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "197" .
+
+<http://testet.org/myfg/DZA>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "146" .
+
+<http://testet.org/mytest/Bulgaria>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/BGR> ;
+        <http://testet.org/gdp>   "47300" .
+
+<http://testet.org/myfg/NLD>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "241" .
+
+<http://testet.org/myfg/AZE>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "109" .
+
+<http://testet.org/myfg/BHR>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "116" .
+
+<http://testet.org/mytest/Other%20small%20states>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/OSS> ;
+        <http://testet.org/gdp>   "135290" .
+
+<http://testet.org/mytest/Montenegro>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/MNE> ;
+        <http://testet.org/gdp>   "12180" .
+
+<http://testet.org/mytest/Norway>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/NOR> ;
+        <http://testet.org/gdp>   "25800" .
+
+<http://testet.org/myfg/RUS>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "261" .
+
+<http://testet.org/mytest/Romania>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/ROU> ;
+        <http://testet.org/gdp>   "151300" .
+
+<http://testet.org/mytest/Russian%20Federation>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/RUS> ;
+        <http://testet.org/gdp>   "1364000" .
+
+<http://testet.org/myfg/HPC>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "177" .
+
+<http://testet.org/myfg/PNG>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "252" .
+
+<http://testet.org/mytest/Sweden>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/SWE> ;
+        <http://testet.org/gdp>   "16100" .
+
+<http://testet.org/mytest/Small%20states>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/SST> ;
+        <http://testet.org/gdp>   "151300" .
+
+<http://testet.org/mytest/Trinidad%20and%20Tobago>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/TTO> ;
+        <http://testet.org/gdp>   "4050" .
+
+<http://testet.org/mytest/Europe%20%26%20Central%20Asia>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/ECS> ;
+        <http://testet.org/gdp>   "5032780" .
+
+<http://testet.org/myfg/LBN>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "205" .
+
+<http://testet.org/mytest/East%20Asia%20%26%20Pacific>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/EAS> ;
+        <http://testet.org/gdp>   "8628630" .
+
+<http://testet.org/myfg/JAM>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "194" .
+
+<http://testet.org/mytest/South%20Asia>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/SAS> ;
+        <http://testet.org/gdp>   "4616450" .
+
+<http://testet.org/mytest/Austria>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/AUT> ;
+        <http://testet.org/gdp>   "22800" .
+
+<http://testet.org/mytest/Zambia>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/ZMB> ;
+        <http://testet.org/gdp>   "16500" .
+
+<http://testet.org/mytest/Kuwait>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/KWT> ;
+        <http://testet.org/gdp>   "22600" .
+
+<http://testet.org/myfg/RWA>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "262" .
+
+<http://testet.org/mytest/Morocco>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/MAR> ;
+        <http://testet.org/gdp>   "245800" .
+
+<http://testet.org/myfg/SEN>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "266" .
+
+<http://testet.org/myfg/PRT>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "256" .
+
+<http://testet.org/mytest/Panama>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/PAN> ;
+        <http://testet.org/gdp>   "12000" .
+
+<http://testet.org/myfg/SLE>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "268" .
+
+<http://testet.org/myfg/SYR>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "281" .
+
+<http://testet.org/myfg/ARG>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "105" .
+
+<http://testet.org/mytest/Germany>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/DEU> ;
+        <http://testet.org/gdp>   "186450" .
+
+<http://testet.org/mytest/Albania>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/ALB> ;
+        <http://testet.org/gdp>   "14750" .
+
+<http://testet.org/myfg/PER>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "250" .
+
+<http://testet.org/mytest/North%20Macedonia>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/MKD> ;
+        <http://testet.org/gdp>   "8000" .
+
+<http://testet.org/myfg/CSS>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "138" .
+
+<http://testet.org/myfg/OMN>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "246" .
+
+<http://testet.org/mytest/Central%20African%20Republic>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/CAF> ;
+        <http://testet.org/gdp>   "8150" .
+
+<http://testet.org/mytest/Nicaragua>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/NIC> ;
+        <http://testet.org/gdp>   "12000" .
+
+<http://testet.org/mytest/Cambodia>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/KHM> ;
+        <http://testet.org/gdp>   "191300" .
+
+<http://testet.org/mytest/Pakistan>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/PAK> ;
+        <http://testet.org/gdp>   "947800" .
+
+<http://testet.org/mytest/Latin%20America%20%26%20the%20Caribbean%20%28IDA%20%26%20IBRD%20countries%29>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/TLA> ;
+        <http://testet.org/gdp>   "2394004" .
+
+<http://testet.org/mytest/Ireland>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/IRL> ;
+        <http://testet.org/gdp>   "9350" .
+
+<http://testet.org/myfg/EAR>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "148" .
+
+<http://testet.org/mytest/Latin%20America%20%26%20Caribbean>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/LCN> ;
+        <http://testet.org/gdp>   "2470964" .
+
+<http://testet.org/mytest/Sub-Saharan%20Africa>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/SSF> ;
+        <http://testet.org/gdp>   "1860810" .
+
+<http://testet.org/mytest/Chile>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/CHL> ;
+        <http://testet.org/gdp>   "106100" .
+
+<http://testet.org/mytest/Eritrea>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/ERI> ;
+        <http://testet.org/gdp>   "201750" .
+
+<http://testet.org/mytest/Lithuania>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/LTU> ;
+        <http://testet.org/gdp>   "23350" .
+
+<http://testet.org/myfg/AFG>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "100" .
+
+<http://testet.org/mytest/Fragile%20and%20conflict%20affected%20situations>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/FCS> ;
+        <http://testet.org/gdp>   "3153630" .
+
+<http://testet.org/mytest/Estonia>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/EST> ;
+        <http://testet.org/gdp>   "5750" .
+
+<http://testet.org/mytest/Australia>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/AUS> ;
+        <http://testet.org/gdp>   "56200" .
+
+<http://testet.org/mytest/Switzerland>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/CHE> ;
+        <http://testet.org/gdp>   "22650" .
+
+<http://testet.org/mytest/Argentina>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/ARG> ;
+        <http://testet.org/gdp>   "104350" .
+
+<http://testet.org/mytest/Moldova>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/MDA> ;
+        <http://testet.org/gdp>   "7750" .
+
+<http://testet.org/mytest/Post-demographic%20dividend>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/PST> ;
+        <http://testet.org/gdp>   "5019630" .
+
+<http://testet.org/myfg/NPL>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "243" .
+
+<http://testet.org/mytest/Czech%20Republic>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/CZE> ;
+        <http://testet.org/gdp>   "26750" .
+
+<http://testet.org/mytest/Burkina%20Faso>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/BFA> ;
+        <http://testet.org/gdp>   "11450" .
+
+<http://testet.org/mytest/Euro%20area>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/EMU> ;
+        <http://testet.org/gdp>   "1536150" .
+
+<http://testet.org/myfg/USA>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "302" .
+
+<http://testet.org/myfg/BLZ>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "120" .
+
+<http://testet.org/myfg/PAK>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "248" .
+
+<http://testet.org/myfg/COL>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "135" .
+
+<http://testet.org/myfg/NGA>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "239" .
+
+<http://testet.org/mytest/Mongolia>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/MNG> ;
+        <http://testet.org/gdp>   "17200" .
+
+<http://testet.org/myfg/MUS>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "233" .
+
+<http://testet.org/myfg/TGO>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "285" .
+
+<http://testet.org/mytest/Armenia>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/ARM> ;
+        <http://testet.org/gdp>   "49100" .
+
+<http://testet.org/myfg/ARB>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "103" .
+
+<http://testet.org/mytest/Singapore>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/SGP> ;
+        <http://testet.org/gdp>   "147600" .
+
+<http://testet.org/mytest/Botswana>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/BWA> ;
+        <http://testet.org/gdp>   "10500" .
+
+<http://testet.org/mytest/Hungary>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/HUN> ;
+        <http://testet.org/gdp>   "38500" .
+
+<http://testet.org/mytest/Rwanda>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/RWA> ;
+        <http://testet.org/gdp>   "35000" .
+
+<http://testet.org/mytest/Gabon>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/GAB> ;
+        <http://testet.org/gdp>   "6700" .
+
+<http://testet.org/myfg/CZE>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "141" .
+
+<http://testet.org/mytest/High%20income>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/HIC> ;
+        <http://testet.org/gdp>   "5786270" .
+
+<http://testet.org/myfg/ARM>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "106" .
+
+<http://testet.org/myfg/UGA>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "298" .
+
+<http://testet.org/myfg/SLV>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "269" .
+
+<http://testet.org/myfg/ALB>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "102" .
+
+<http://testet.org/mytest/Niger>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/NER> ;
+        <http://testet.org/gdp>   "10700" .
+
+<http://testet.org/mytest/France>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/FRA> ;
+        <http://testet.org/gdp>   "325600" .
+
+<http://testet.org/mytest/Cabo%20Verde>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/CPV> ;
+        <http://testet.org/gdp>   "1200" .
+
+<http://testet.org/myfg/FCS>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "160" .
+
+<http://testet.org/mytest/South%20Africa>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/ZAF> ;
+        <http://testet.org/gdp>   "62100" .
+
+<http://testet.org/myfg/WLD>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "306" .
+
+<http://testet.org/mytest/European%20Union>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/EUU> ;
+        <http://testet.org/gdp>   "2194700" .
+
+<http://testet.org/myfg/JPN>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "196" .
+
+<http://testet.org/myfg/BHS>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "117" .
+
+<http://testet.org/myfg/TLS>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "290" .
+
+<http://testet.org/myfg/TZA>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "297" .
+
+<http://testet.org/myfg/ZMB>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "309" .
+
+<http://testet.org/myfg/MNA>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "228" .
+
+<http://testet.org/mytest/Timor-Leste>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/TLS> ;
+        <http://testet.org/gdp>   "1330" .
+
+<http://testet.org/myfg/CAN>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "127" .
+
+<http://testet.org/mytest/Chad>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/TCD> ;
+        <http://testet.org/gdp>   "34850" .
+
+<http://testet.org/myfg/CHE>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "129" .
+
+<http://testet.org/mytest/Djibouti>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/DJI> ;
+        <http://testet.org/gdp>   "12950" .
+
+<http://testet.org/myfg/COG>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "134" .
+
+<http://testet.org/mytest/Korea%2C%20Dem.%20People%3F%FFFD%3Fs%20Rep.>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/PRK> ;
+        <http://testet.org/gdp>   "1379000" .
+
+<http://testet.org/myfg/AGO>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "101" .
+
+<http://testet.org/mytest/Middle%20East%20%26%20North%20Africa%20%28IDA%20%26%20IBRD%20countries%29>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/TMN> ;
+        <http://testet.org/gdp>   "3343050" .
+
+<http://testet.org/mytest/Japan>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/JPN> ;
+        <http://testet.org/gdp>   "259800" .
+
+<http://testet.org/myfg/MEA>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "221" .
+
+<http://testet.org/myfg/ISL>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "191" .
+
+<http://testet.org/myfg/FIN>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "161" .
+
+<http://testet.org/myfg/AUS>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "107" .
+
+<http://testet.org/mytest/Finland>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/FIN> ;
+        <http://testet.org/gdp>   "25000" .
+
+<http://testet.org/mytest/Suriname>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/SUR> ;
+        <http://testet.org/gdp>   "1840" .
+
+<http://testet.org/myfg/THA>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "286" .
+
+<http://testet.org/mytest/Mauritania>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/MRT> ;
+        <http://testet.org/gdp>   "20850" .
+
+<http://testet.org/mytest/Egypt%2C%20Arab%20Rep.>
+        a                         <http://testet.org/Country> ;
+        <http://testet.org/flag>  <http://testet.org/myfg/EGY> ;
+        <http://testet.org/gdp>   "835500" .
+
+<http://testet.org/myfg/TUN>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "295" .
+
+<http://testet.org/myfg/JOR>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "195" .
+
+<http://testet.org/myfg/MIC>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "223" .
+
+<http://testet.org/myfg/TEA>
+        a                          <http://testet.org/Flag> ;
+        <http://testet.org/price>  "283" .

@@ -1,0 +1,48 @@
+@prefix rr: <http://www.w3.org/ns/r2rml#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+# test
+@prefix tt: <http://testet.org/>
+@prefix bb: <http://testet2.org/>
+
+<#CountryMap>
+	a rr:TriplesMap;
+	rr:logicalTable [ rr:tableName "tdata" ];
+	rr:subjectMap [
+		rr:template "http://testet.org/mytest/{COUNTRYNAME}";
+		rr:class tt:Country;
+	];
+
+	rr:predicateObjectMap [
+		rr:predicate tt:gdp;
+		rr:objectMap [ rr:column "YYY" ];
+	];
+
+	rr:predicateObjectMap [
+		rr:predicate tt:flag;
+		rr:objectMap [
+			rr:parentTriplesMap <#FlagMap>;
+			rr:joinCondition [
+				rr:child "COUNTRYCODE";
+				rr:parent "ID";
+			];
+		];
+	];
+
+.
+
+
+<#FlagMap>
+	a rr:TriplesMap;
+	rr:logicalTable [ rr:tableName "flag" ];
+	rr:subjectMap [
+		rr:template "http://testet.org/myfg/{ID}";
+		rr:class tt:Flag;
+	];
+	rr:predicateObjectMap [
+		rr:predicate tt:price;
+		rr:objectMap [ rr:column "PRICE"];
+	];
+.
